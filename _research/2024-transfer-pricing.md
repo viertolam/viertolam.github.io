@@ -10,7 +10,7 @@ paperurl: 'https://www.doria.fi/bitstream/handle/10024/188438/vatt-working-paper
 
 This paper studies how firms manipulate their transfer prices to shift profit from high tax countries to low tax countries. Using detailed transaction-destination level firm data for years 2013-2019, I find evidence of Finnish multinational enterprises underpricing their exports to low tax destinations. By exploiting variation in corporate income tax rate differences and differences in the ownership of affiliates, I apply a triple difference estimation strategy. I find that a 1 percentage point increase in tax rate difference decreases export unit value by 1.2% among multinational firms exporting to low tax countries. My results suggest firms use transfer pricing as a complement channel, as firms more prone to other profit shifting mechanisms also underprice their exports more. Also, I provide evidence that transfer mispricing is concentrated in exports destined to countries where the multinational’s affiliate has a higher level of economic activity. Where the results with exports are very robust, the results with imports are mixed, suggesting an asymmetrical pattern in transfer pricing.
 
-(/images/Taxratechanges_laji2.png)
+![Tax Rate Changes]({{ site.baseurl }}/images/Taxratechanges_laji2.png)
 
 Figure shows event study estimates and the corresponding 95% confidence intervals for three different type of tax changes happening in year 0 in the low tax country. 
 
