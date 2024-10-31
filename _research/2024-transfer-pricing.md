@@ -1,7 +1,6 @@
 ---
 title: "Transfer (mis)pricing of multinational enterprises: evidence from Finland"
 collection: research
-category: manuscripts
 permalink: /research/2024-transfer-pricing
 excerpt: 'This paper studies how firms manipulate their transfer prices to shift profit from high tax countries to low tax countries. Using detailed transactiondestination level firm data for years 2013-2019, I find evidence of Finnish multinational enterprises underpricing their exports to low tax destinations. By exploiting variation in corporate income tax rate differences and differences in the ownership of affiliates, I apply a triple difference estimation strategy. I find that a 1 percentage point increase in tax rate difference decreases export unit value by 1.2% among multinational firms exporting to low tax countries. My results suggest firms use transfer pricing as a complement channel, as firms more prone to other profit shifting mechanisms also underprice their exports more. Also, I provide evidence that transfer mispricing is concentrated in exports destined to countries where the multinational’s affiliate has a higher level of economic activity. Where the results with exports are very robust, the results with imports are mixed, suggesting an asymmetrical pattern in transfer pricing.'
 date: 2024-01-09
