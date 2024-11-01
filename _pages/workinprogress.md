@@ -12,7 +12,7 @@ with Mikko Vanhala. <i>Draft available upon request.</i>
 with Tom-Henrik Sirviö. <i>Draft available upon request.</i>
 
 
-<h2>Lessons from Country-by-Country reporting data: Finnish multinationals</h2>
+<h2>Lessons from Finnish Country-by-Country reporting data</h2>
 with Tom-Henrik Sirviö. 
 
 
