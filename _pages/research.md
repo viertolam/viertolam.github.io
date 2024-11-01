@@ -12,3 +12,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Policy research</h2>
+{% for post in site.research reversed %}
+  {% if post.pubtype == 'policypaper' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
