@@ -5,7 +5,7 @@ permalink: /research/2023-gmt-investment
 date: 2023-12-19
 
 venue: 'VATT Mimeo 71'
-link: '(https://www.doria.fi/bitstream/handle/10024/188352/vatt-mimeo-71-globe-minimum-tax--effects-on-investment-and-tax-competition-in-low-tax-countries.pdf)'
+link: 'https://www.doria.fi/bitstream/handle/10024/188352/vatt-mimeo-71-globe-minimum-tax--effects-on-investment-and-tax-competition-in-low-tax-countries.pdf'
 citation: 'Kari, Seppo, and Viertola, Marika. 2023. &quot;GloBE minimum tax: effects on investment and tax competition in low-tax countries.&quot; <i>VATT Mimeo 71</i>.'
 pubtype: 'policypaper'
 ---
