@@ -202,7 +202,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: falsehttps://github.com/viertolam/viertolam.github.io/blob/master/_config.yml
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
@@ -272,15 +272,6 @@ defaults:
   - scope:
       path: ""
       type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _work-in-progress
-  - scope:
-      path: ""
-      type: work-in-progress
     values:
       layout: single
       author_profile: true
