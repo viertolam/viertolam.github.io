@@ -17,4 +17,4 @@ This paper studies how firms manipulate their transfer prices to shift profit fr
 
 The figure plots event study estimates and the corresponding 95% confidence intervals for three different type of tax changes happening in year 0 in the low tax country. After the low tax country has decreased it's corporate income tax rate (yellow and blue markers), the export unit value of a multinational that has an affiliate in that country decreases more compared to a firm that does not have any affiliates located in the country in question.
 
-[Download paper here](https://www.doria.fi/bitstream/handle/10024/188438/vatt-working-papers-162-transfer-mis-pricing-of-multinational-enterprises--evidence-from-finland.pdf)
+
