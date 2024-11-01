@@ -45,13 +45,7 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'research' %}
       {% if post.abstract %}
-        <details><summary>Abstract</summary>
-        <blockquote>
-        <p>
-        {{ post.abstract }}
-        </p>
-        </blockquote>
-        </details>
+
       {% endif %}
       
       <!-- citation and icon code -->
