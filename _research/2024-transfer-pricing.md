@@ -7,6 +7,7 @@ date: 2024-01-09
 venue: 'VATT Working Papers 162'
 link: 'https://www.doria.fi/bitstream/handle/10024/188438/vatt-working-papers-162-transfer-mis-pricing-of-multinational-enterprises--evidence-from-finland.pdf'
 citation: 'Viertola, Marika. 2024. &quot;Transfer (mis)pricing of multinational enterprises: evidence from Finland.&quot; <i>VATT Working Papers 162</i>.'
+pubtype: 'workingpaper'
 ---
 
 ## Abstract
