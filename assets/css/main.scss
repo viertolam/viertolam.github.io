@@ -41,7 +41,7 @@
 @import "print";
 
 .author__avatar img {
-  width: 200px;   /* adjust size */
+  width: 400px;   /* adjust size */
   height: auto;   /* keeps proportions */
-  border-radius: 50%; /* optional: makes image circular */
+  border-radius: 0 !important;
 }
