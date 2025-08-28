@@ -91,6 +91,12 @@
     height: auto;
   }
 
+   @media (max-width: 768px) {
+    .sidebar .bio-image {
+        max-width: 150px;   /* smaller image on mobile */
+        margin: 0 auto;     /* keep it centered */
+    }
+
   img {
     // max-width: 175px;
     // border-radius: 10%;
@@ -98,6 +104,8 @@
   height: auto !important;
   border-radius: 0 !important;
   display: block;
+
+     
 
 
     @include breakpoint($large) {
