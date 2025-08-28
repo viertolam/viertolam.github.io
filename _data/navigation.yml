@@ -13,6 +13,9 @@ main:
     
   - title: "CV"
     url: /files/CV_MarikaViertola2024.pdf
+
+  - title: "Adventures"
+    url: /adventures/
     
 # - title: "Publications"
  # url: /publications/    
