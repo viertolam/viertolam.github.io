@@ -91,10 +91,10 @@
   }
 
   // Mobile adjustments
-  @media (max-width: 768px) {
-    width: 100px;      // shrink the avatar
-    margin: 0 auto;
-  }
+  //@media (max-width: 768px) {
+   // width: 80px;      // shrink the avatar
+  //  margin: 0;
+ // }
 }
 
 .author__content {
@@ -252,6 +252,31 @@
 
     &:hover {
       text-decoration: underline;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .author__bio {
+    display: flex;           // align avatar and info side by side
+    align-items: center;
+    gap: 10px;               // space between image and text
+
+    .author__avatar {
+      width: 80px;           // smaller avatar
+      min-width: 80px;
+      margin: 0;             // remove auto centering on mobile
+
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 50%; // make it circular on mobile
+      }
+    }
+
+    .author__info {
+      margin-top: 0;         // remove desktop spacing
+      flex: 1;               // let text take remaining space
     }
   }
 }
