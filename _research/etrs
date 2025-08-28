@@ -1,0 +1,20 @@
+---
+title: "Heterogeneity in Effective Tax Rate Trends: Evidence from Finnish Corporate Tax Returns"
+collection: research
+permalink: /research/2025-etrs
+date: 2025-03-06
+
+venue: 'VATT Working Papers 174'
+link: 'https://www.doria.fi/bitstream/handle/10024/190859/vatt-working-papers-174-heterogeneity-in-effective-tax-rate-trends--evidence-from-finnish-corporate-tax-returns.pdf?sequence=1&isAllowed=y'
+citation: 'Vanhala, Mikko, and Viertola, Marika. 2025. &quot;Heterogeneity in Effective Tax Rate Trends: Evidence from Finnish Corporate Tax Returns.&quot; <i>VATT Working Papers 174</i>.'
+pubtype: 'workingpaper'
+---
+
+## Abstract
+In this paper, we describe the evolution of effective tax rates (ETR) of Finnish corporate groups and firms over time. Using detailed corporate tax return data from 2000-2015, we document a decreasing time trend in effective tax rates, particularly for Finnish-owned multinational enterprises. We do not observe a significant decreasing trend for domestic firms, consistent with a broad tax base and limited means of tax avoidance. Complementing our results with unconditional quantile regression, we also observe heterogeneity in the time trend across the ETR distribution. Finally, we link multinational enterprises to their foreign subsidiaries and find that multinationals with tax haven subsidiaries report zero taxable profits more often than non-haven affiliated ones. Our results show that the financial crisis had a lasting legacy on Finnish firms, creating large loss carry-forwards that were deduced in the following years.
+
+## Effect of tax rate changes in low tax countries on the intra-firm export price
+![Tax Rate Changes]({{ site.baseurl }}/images/Taxratechanges_laji2.png)
+
+The figure plots event study estimates and the corresponding 95% confidence intervals for three different type of tax changes happening in year 0 in the low tax country. After the low tax country has decreased it's corporate income tax rate (yellow and blue markers), the export unit value of a multinational that has an affiliate in that country decreases more compared to a firm that does not have any affiliates located in the country in question.
+
