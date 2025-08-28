@@ -78,6 +78,7 @@
 
 .author__avatar {
   width: 100%;       // fill sidebar width on desktop
+   max-width: 250px;
   height: auto;
   display: block;
   margin: 0 auto;
