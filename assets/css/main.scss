@@ -40,3 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.author__avatar img {
+  width: 200px !important;   /* force your width */
+  height: auto !important;   /* keep proportions */
+  border-radius: 0 !important; /* remove circle */
+}
