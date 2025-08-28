@@ -40,9 +40,4 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__avatar img {
-  width: 100% !important;   /* fill sidebar width */
-  height: auto !important;  /* keep aspect ratio */
-  border-radius: 0 !important; /* no circle crop */
-  display: block;
-}
+
