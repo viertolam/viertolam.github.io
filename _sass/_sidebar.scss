@@ -77,42 +77,22 @@
    ========================================================================== */
 
 .author__avatar {
-  //display: table-cell;
-  // vertical-align: top;
-  // width: 100px;
-  // set width only, for non-square avatars
-  // height: 100px;
-   width: 100% !important;
-  display: block !important;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-   @media (max-width: 768px) {
-    .sidebar .bio-image {
-        max-width: 150px;   /* smaller image on mobile */
-        margin: 0 auto;     /* keep it centered */
-    }
-   }
+  width: 100%;       // fill sidebar width on desktop
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 0;
 
   img {
-    // max-width: 175px;
-    // border-radius: 10%;
-      width: 100% !important;
-  height: auto !important;
-  border-radius: 0 !important;
-  display: block;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
 
-     
-
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 0px solid $border-color;
-    }
+  // Mobile adjustments
+  @media (max-width: 768px) {
+    width: 150px;      // shrink the avatar
+    margin: 0 auto;
   }
 }
 
