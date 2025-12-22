@@ -1,4 +1,3 @@
-
 ---
 title: "Global Minimum Tax and the Proposed Green Tax Credit"
 collection: research
