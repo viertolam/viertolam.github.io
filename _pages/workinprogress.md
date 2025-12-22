@@ -12,4 +12,4 @@ with Tom-Henrik Sirviö. <i>Draft available upon request.</i>
 <h2>Voluntary private tax disclosures of multinational enterprises</h2>
 
 <h2>Adoption and Effects of Free Contraception Programs </h2>
-with Milla Hägg, Elina Jussila, Mika Kortelainen and Satu Metsälampi. <i>Pre-analysis plan.</i>
+with Milla Hägg, Elina Jussila, Mika Kortelainen and Satu Metsälampi. <i>[Pre-analysis plan](https://osf.io/bgxq4).</i>
