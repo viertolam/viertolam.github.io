@@ -9,9 +9,7 @@ permalink: /workinprogress/
 with Tom-Henrik Sirviö. <i>Draft available upon request.</i>
 
 
-<h2>Lessons from Finnish Country-by-Country reporting data</h2>
-with Tom-Henrik Sirviö. 
+<h2>Voluntary private tax disclosures of multinational enterprises</h2>
 
-
-<h2>Voluntary tax disclosures of multinational enterprises</h2>
-with Tom-Henrik Sirviö. 
+<h2>Adoption and Effects of Free Contraception Programs </h2>
+with Milla Hägg, Elina Jussila, Mika Kortelainen and Satu Metsälampi. <i>Pre-analysis plan.</i>
