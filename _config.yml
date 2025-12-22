@@ -27,7 +27,7 @@ author:
   bio              : "Researcher, VATT"
   location         : "Helsinki, Finland"
   employer         : "VATT Institute for Economic Research"
-  university       : "Aalto University"
+  university       : # "Aalto University"
   uri              : # URL
   email            : "marika.viertola@vatt.fi" 
 
