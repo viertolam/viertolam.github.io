@@ -7,7 +7,7 @@ date: 2024-12-12
 
 venue: 'VATT Mimeo 74'
 link: 'https://www.doria.fi/bitstream/handle/10024/190568/vatt-mimeo-74-global-minimum-tax-and-the-proposed-green-tax-credit.pdf'
-citation: 'Kari, Seppo, and Viertola, Marika. 2024. "Global minimum tax and the proposed green tax credit." <i>VATT Mimeo 74</i>.'
+citation: 'Kari, Seppo, and Viertola, Marika. 2024. "Global minimum tax and the proposed green tax credit." VATT Mimeo 74.'
 pubtype: 'policypaper'
 ---
 
