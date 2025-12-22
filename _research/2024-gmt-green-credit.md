@@ -2,7 +2,7 @@
 ---
 title: "Global Minimum Tax and the Proposed Green Tax Credit"
 collection: research
-permalink: /research/2024-gmt-incentives
+permalink: /research/2024-gmt-green-credit
 date: 2024-12-12
 
 venue: 'VATT Mimeo 74'
