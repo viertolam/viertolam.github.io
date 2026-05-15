@@ -1,17 +1,17 @@
 ---
-title: "Transfer (mis)pricing of multinational enterprises: evidence from Finland"
+title: "Exploring heterogeneity and asymmetries in transfer pricing: evidence from Finland"
 collection: research
-permalink: /research/2024-transfer-pricing
-date: 2024-01-09
+permalink: /research/2026-transfer-pricing
+date: 2026-05-13
 
-venue: 'VATT Working Papers 162'
+venue: 'International Tax and Public Finance'
 link: 'https://www.doria.fi/bitstream/handle/10024/188438/vatt-working-papers-162-transfer-mis-pricing-of-multinational-enterprises--evidence-from-finland.pdf'
-citation: 'Viertola, Marika. 2024. &quot;Transfer (mis)pricing of multinational enterprises: evidence from Finland.&quot; <i>VATT Working Papers 162</i>.'
-pubtype: 'workingpaper'
+citation: 'Viertola, M. 2026. &quot;Exploring heterogeneity and asymmetries in transfer pricing: evidence from Finland.&quot; <i>International Tax and Public Finance</i>.' 
+pubtype: 'peerreviewed'
 ---
 
 ## Abstract
-This paper studies how firms manipulate their transfer prices to shift profit from high tax countries to low tax countries. Using detailed product-destination level firm data for years 2013-2019, I find evidence of Finnish multinational enterprises underpricing their exports to low tax destinations. By exploiting variation in corporate income tax rate differences and differences in the ownership of affiliates, I apply a triple difference estimation strategy. I find that a 1 percentage point increase in tax rate difference decreases export unit value by 1.2% among multinational firms exporting to low tax countries. My results suggest firms use transfer pricing as a complement channel, as firms more prone to other profit shifting mechanisms also underprice their exports more. Also, I provide evidence that transfer mispricing is concentrated in exports destined to countries where the multinational’s affiliate has a higher level of economic activity. Where the results with exports are very robust, the results with imports are mixed, suggesting an asymmetrical pattern in transfer pricing.
+This paper utilizes detailed transaction-destination-level data from Finland for years 2013-2019 to examine how multinational enterprises adjust transfer prices to shift profit from high tax countries to low tax countries. Employing a triple difference strategy that leverages variations in corporate income tax rates and affiliate owner-ship, I provide robust evidence that multinational enterprises underprice exports to low tax destinations. Additionally, my findings suggest that transfer pricing serves as a complementary channel of profit shifting, as firms more prone to other profit shifting  mechanisms  also  underprice  their  exports  more.  Furthermore,  I  provide evidence that firms with more affiliates as well as firms with tax haven affiliates transfer misprice more. My results also suggest asymmetries: while there is clear evidence of transfer mispricing in exports to low tax destinations, there is no con-sistent evidence of transfer mispricing in imports.
 
 ## Effect of tax rate changes in low tax countries on the intra-firm export price
 ![Tax Rate Changes]({{ site.baseurl }}/images/Taxratechanges_laji2.png)
