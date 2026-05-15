@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 ---
 
 <h2>Working papers</h2>
