@@ -8,7 +8,7 @@ classes: wide
 
 <h2>Peer-reviewed articles</h2>
 {% for post in site.research reversed %}
-  {% if post.pubtype == 'workingpaper' %}
+  {% if post.pubtype == 'peerreviewed' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
