@@ -34,6 +34,13 @@
   }
 }
 
+/* Wide layout modifier */
+.archive.wide {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
