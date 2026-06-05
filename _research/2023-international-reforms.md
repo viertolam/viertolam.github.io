@@ -6,7 +6,7 @@ date: 2023-04-12
 
 venue: 'ETLA Raportti 138'
 link: 'https://www.etla.fi/en/publications/reports/suomalaiset-yritykset-kansainvalisten-veroreformien-pyorteissa/'
-citation: 'Ropponen, Olli, Viertola, Marika, Seppo, Kari, ja Valkonen, Tarmo. 2023. &quot;Suomalaiset yritykset kansainvälisten veroreformien pyörteissä.&quot; <i>ETLA Raportti 138</i>.'
+citation: 'Ropponen, O., Viertola, M., Seppo, K., ja Valkonen, T. (2023), &quot;Suomalaiset yritykset kansainvälisten veroreformien pyörteissä.&quot; <i>ETLA Raportti 138</i>.'
 pubtype: 'policypaper'
 ---
 
