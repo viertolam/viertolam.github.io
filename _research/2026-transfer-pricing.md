@@ -6,7 +6,7 @@ date: 2026-05-13
 
 venue: 'International Tax and Public Finance'
 link: 'https://link.springer.com/article/10.1007/s10797-026-09971-7'
-citation: 'Viertola, Marika. 2026. &quot;Exploring heterogeneity and asymmetries in transfer pricing: evidence from Finland.&quot; <i>International Tax and Public Finance</i>.' 
+citation: 'Viertola, M. (2026), &quot;Exploring heterogeneity and asymmetries in transfer pricing: evidence from Finland.&quot; <i>International Tax and Public Finance</i>.' 
 pubtype: 'peerreviewed'
 ---
 
