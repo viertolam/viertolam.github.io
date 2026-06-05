@@ -6,7 +6,7 @@ date: 2024-09-05
 
 venue: 'VATT Mimeo 72'
 link: 'https://www.doria.fi/bitstream/handle/10024/189903/vatt-mimeo-72-global-minimum-tax-and-tax-incentives.pdf'
-citation: 'Kari, Seppo, and Viertola, Marika. 2024. &quot;Global minimum tax and tax incentives.&quot; <i>VATT Mimeo 72</i>.'
+citation: 'Kari, S., and Viertola, M. (2024), &quot;Global minimum tax and tax incentives.&quot; <i>VATT Mimeo 72</i>.'
 pubtype: 'policypaper'
 ---
 
