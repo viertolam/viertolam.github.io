@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2023-profit-shifting
 date: 2023-12-19
 
-venue: 'FIT Working Paper 18'
+venue: 'FIT Working Papers'
 link: 'https://verotutkimus.fi/verotutkimus/wp-content/uploads/2023/12/FIT-WP-18-Profit-Shifting-of-Multinational-Enterprises-1.pdf'
 citation: 'Viertola, M. (2023), &quot;Profit shifting of multinational enterprises: evidence from the Nordics.&quot; <i>FIT Working Paper 18</i>.'
 pubtype: 'workingpaper'
